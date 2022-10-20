@@ -1,4 +1,6 @@
-Command Line Calculator using Node.js, TypeScript, and Inquirer
+# Command Line Calculator using Node.js, TypeScript, and Inquirer
+
+# SetUp :
 
 # Clone repo
 $ git clone https://github.com/Kanwal243/Typescript-Calculator-Task-Inquirer.git
